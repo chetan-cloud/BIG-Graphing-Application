@@ -1,5 +1,7 @@
 MAC-ONLY
 
+Tutorial: https://www.youtube.com/watch?v=_XHP7VLXFzY&ab_channel=ChetanSidhu 
+
 Steps:
 1. Download ZIP file and decompress
 2. In the '_internal' folder, you can locate the xlsx (Excel) file called 'BIGSheet.xlsx'
